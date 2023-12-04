@@ -1,2 +1,2 @@
 # Assignment_12
- Reacjs - My Inventory
+ Reacjs - Inventory Products
